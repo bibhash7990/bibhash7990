@@ -12,7 +12,7 @@
 
 ---
 
-I'm a **MERN / full-stack developer** with **2.5+ years** of experience shipping production web applications across **B2B SaaS, operations, and fintech**. I take ownership from architecture through release — not just writing code, but thinking about what should be built and why.
+I'm a **MERN / full-stack developer** with **4.5+ years** of experience shipping production web applications across **B2B SaaS, operations, and fintech**. I take ownership from architecture through release — not just writing code, but thinking about what should be built and why.
 
 ## ⚡ What I Do
 
